@@ -1,4 +1,4 @@
-# AWS ECS Terraform module
+# AWS ECS Terraform modules
 
 Terraform module which creates ECS (Elastic Container Service) resources on AWS.
 
